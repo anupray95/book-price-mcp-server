@@ -208,5 +208,5 @@ ISC
 
 ---
 
-**Built with ❤️ using the Model Context Protocol**
+**Built with ❤️ using the Model Context Protocol **
 
